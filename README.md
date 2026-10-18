@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaKushwaha94&style=flat-square&color=0e75b6" alt="profile views" />
-</div>
-
 # <div align="center">Hi, I'm Aditya 👋</div>
 
 <div align="center">
@@ -10,6 +6,7 @@
   Durable distributed systems: crash-recoverable agent runs, idempotent reward and billing paths, and pipelines that judge AI output.<br/><br/>
   <a href="https://github.com/AdityaKushwaha94/Ghidorah">Ghidorah</a> ·
   <a href="https://github.com/AdityaKushwaha94/llm-eval-observability">llm-eval-observability</a> ·
+  <a href="https://github.com/AdityaKushwaha94/oscc-detection">oscc-detection</a> ·
   <a href="https://github.com/AdityaKushwaha94/EvalMate">EvalMate</a>
 </div>
 
