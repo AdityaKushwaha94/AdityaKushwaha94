@@ -7,7 +7,7 @@
 <div align="center">
   <b>Backend Engineer</b> at Pazago (<a href="https://provue.ai">Provue.ai</a>) · Mumbai, India<br/>
   I build durable distributed systems: crash-recoverable LLM agent runs, idempotent reward and billing paths, and pipelines that judge AI output.<br/><br/>
-  <a href="https://github.com/Adityakushwaha947/Ghidorah">Ghidorah</a> ·
+  <a href="https://github.com/AdityaKushwaha94/Ghidorah">Ghidorah</a> ·
   <a href="https://github.com/AdityaKushwaha94/llm-eval-observability">llm-eval-observability</a> ·
   <a href="https://github.com/AdityaKushwaha94/EvalMate">EvalMate</a>
 </div>
@@ -22,7 +22,7 @@
 
 ## 🔭 What I'm building
 
-- **[Ghidorah](https://github.com/Adityakushwaha947/Ghidorah)**: a durable LLM agent harness. Append-only journal, lease-fenced checkpoints and 100 deterministic evaluations, so a SIGKILLed run resumes exactly where it stopped.
+- **[Ghidorah](https://github.com/AdityaKushwaha94/Ghidorah)**: a durable LLM agent harness. Append-only journal, lease-fenced checkpoints and 100 deterministic evaluations, so a SIGKILLed run resumes exactly where it stopped.
 - **[llm-eval-observability](https://github.com/AdityaKushwaha94/llm-eval-observability)**: the backend that judges chatbots. `202` ingest, Redis-queued workers, deterministic checks plus an LLM judge, and version-to-version regression detection for CI.
 - **At work**: the backend of an AI companion platform serving 200K+ users, and an autonomous security-review agent. My day-to-day commits live on my work account, [@Adityakushwaha947](https://github.com/Adityakushwaha947).
 - **[EvalMate](https://github.com/AdityaKushwaha94/EvalMate)**: AI-assisted interview platform built for a DRDO problem statement at Smart India Hackathon 2023.
