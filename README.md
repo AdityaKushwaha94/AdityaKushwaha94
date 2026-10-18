@@ -30,34 +30,55 @@
 ## 📫 Reach me
 
 <div align="center">
+  <a href="https://github.com/AdityaKushwaha94/AdityaKushwaha94/blob/main/Aditya_Kushwaha_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-2E7D32?style=for-the-badge" alt="Resume" /></a>
   <a href="mailto:adityakuashwaha@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/aditya-kushwaha-521214254"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfolio-zeta-two-lyaszzc3ea.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/Aditya_kushwaha_/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://github.com/Adityakushwaha947"><img src="https://img.shields.io/badge/Work_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub" /></a>
 </div>
 
 ## 🛠 Technologies I work with
 
-<table width="100%">
-  <tr>
-    <td width="25%" align="center" valign="top"><b>Backend</b><br/><br/>
-      <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="44" />
-      <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="44" />
-      <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="44" />
-      <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" height="44" />
-      <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="44" />
-    </td>
-    <td width="25%" align="center" valign="top"><b>Data &amp; Queues</b><br/><br/>
-      <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="44" />
-      <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="44" />
-      <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="44" />
-    </td>
-    <td width="25%" align="center" valign="top"><b>AI &amp; ML</b><br/><br/>
-      <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="44" />
-    </td>
-    <td width="25%" align="center" valign="top"><b>Infra &amp; Tools</b><br/><br/>
-      <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="44" />
-      <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="44" />
-      <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/git-original.svg" alt="Git" height="44" />
-      <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="44" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+**Backend**
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Bun-14151A?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+
+**Data & queues**
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/SSE_%2F_WebSockets-5A29E4?style=for-the-badge" alt="SSE / WebSockets" />
+<img src="https://img.shields.io/badge/Job_Queues_(RQ)-B32024?style=for-the-badge" alt="Job queues" />
+
+**AI systems**
+
+<img src="https://img.shields.io/badge/Mastra-0D0D1A?style=for-the-badge" alt="Mastra" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+<img src="https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge" alt="OpenRouter" />
+<img src="https://img.shields.io/badge/Eval_Harnesses-4A148C?style=for-the-badge" alt="Evaluation harnesses" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+
+**Infra & tools**
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/gVisor-262262?style=for-the-badge" alt="gVisor" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
+</div>
