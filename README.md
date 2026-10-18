@@ -6,7 +6,8 @@
 
 <div align="center">
   <b>Backend Engineer</b> at Pazago (<a href="https://provue.ai">Provue.ai</a>) · Mumbai, India<br/>
-  I build durable distributed systems: crash-recoverable LLM agent runs, idempotent reward and billing paths, and pipelines that judge AI output.<br/><br/>
+  Building <a href="https://provue.ai"><b>Provue.ai</b></a>, an AI companion platform serving 200K+ users, and <b>Mettle</b>, an autonomous code-review and penetration-testing agent.<br/>
+  Durable distributed systems: crash-recoverable agent runs, idempotent reward and billing paths, and pipelines that judge AI output.<br/><br/>
   <a href="https://github.com/AdityaKushwaha94/Ghidorah">Ghidorah</a> ·
   <a href="https://github.com/AdityaKushwaha94/llm-eval-observability">llm-eval-observability</a> ·
   <a href="https://github.com/AdityaKushwaha94/EvalMate">EvalMate</a>
@@ -24,7 +25,8 @@
 
 - **[Ghidorah](https://github.com/AdityaKushwaha94/Ghidorah)**: a durable LLM agent harness. Append-only journal, lease-fenced checkpoints and 100 deterministic evaluations, so a SIGKILLed run resumes exactly where it stopped.
 - **[llm-eval-observability](https://github.com/AdityaKushwaha94/llm-eval-observability)**: the backend that judges chatbots. `202` ingest, Redis-queued workers, deterministic checks plus an LLM judge, and version-to-version regression detection for CI.
-- **At work**: the backend of an AI companion platform serving 200K+ users, and an autonomous security-review agent. My day-to-day commits live on my work account, [@Adityakushwaha947](https://github.com/Adityakushwaha947).
+- **At [Provue.ai](https://provue.ai)**: multiplayer games with collision-safe reward settlement, credits and billing, 20+ LLM agent tools and the analytics surface, for 200K+ users.
+- **On Mettle**: an autonomous security-review agent. Governed scanners (Semgrep, Gitleaks, OSV, Nuclei, ZAP) in gVisor sandboxes, durable crash-recoverable runs, per-run budgets. Day-to-day commits live on my work account, [@Adityakushwaha947](https://github.com/Adityakushwaha947).
 - **[EvalMate](https://github.com/AdityaKushwaha94/EvalMate)**: AI-assisted interview platform built for a DRDO problem statement at Smart India Hackathon 2023.
 
 ## 📫 Reach me
