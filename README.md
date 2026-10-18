@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaKushwaha94&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AdityaKushwaha94&style=flat-square&color=0e75b6" alt="profile views" />
 </div>
 
 # <div align="center">Hi, I'm Aditya 👋</div>
